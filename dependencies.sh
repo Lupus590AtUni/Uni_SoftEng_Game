@@ -3,5 +3,5 @@
 installCommand = "dnf install" # use with $installCommand 
 
 
-#TODO: qt4 opengl openal freealut 
+#TODO: qt4 opengl openal freealut gtest
 #$installCommand 
