@@ -2,6 +2,6 @@
 
 
 ## Installinbg Dependencies
-TODO: vetter instrctuions
+TODO: better instrctuions
 
 SDL: https://libsdl.org/
