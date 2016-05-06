@@ -144,15 +144,19 @@
   <ItemGroup>
     <ClCompile Include="game.cpp" />
     <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="ghost.cpp" />
     <ClCompile Include="level.cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="movers.cpp" />
+    <ClCompile Include="mover.cpp" />
+    <ClCompile Include="packman.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h" />
     <ClInclude Include="GameObject.h" />
+    <ClInclude Include="ghost.h" />
     <ClInclude Include="level.h" />
-    <ClInclude Include="movers.h" />
+    <ClInclude Include="mover.h" />
+    <ClInclude Include="packman.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
